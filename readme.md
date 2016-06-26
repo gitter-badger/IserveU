@@ -1,4 +1,6 @@
 # IserveU
+
+[![Join the chat at https://gitter.im/IserveU/IserveU](https://badges.gitter.im/IserveU/IserveU.svg)](https://gitter.im/IserveU/IserveU?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 eDemocracy Tool
 
 Run: "bower install" to get dependencies
